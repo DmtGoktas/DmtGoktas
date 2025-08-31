@@ -2,8 +2,10 @@
 
     -The tools I learned
 
-        -C/C++
+        -C
     
-        -Python
+        -Javascript
+
+        -Php
     
         -Arduino
