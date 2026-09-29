@@ -2,7 +2,7 @@
 
     -The tools I learned
 
-        -C
+        -Python
     
         -Javascript
 
