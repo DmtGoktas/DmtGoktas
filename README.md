@@ -1,14 +1,40 @@
-**Hi, I'm Demet Göktaş 👋**
-Computer Engineering Graduate | Aspiring Cloud & DevOps Engineer
 
-I'm interested in Cloud Computing, AWS, DevOps practices, and Backend Development.
+# Hi, I'm Demet Göktaş 👋
 
-Technical Skills
-Cloud: AWS (S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB)
-DevOps: Git, GitHub Actions, AWS SAM
-Programming: Python, JavaScript, PHP
-Database: MySQL, MSSQL
-Featured Projects
-AWS Cloud Resume Challenge
-Industrial Autonomous Vehicles – Teknofest
-Currently improving my skills in cloud infrastructure, automation, and CI/CD.
+🎓 **Computer Engineering Graduate**
+
+☁️ **Aspiring Cloud & DevOps Engineer** passionate about building cloud-based solutions and automating workflows.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Cloud:** AWS (S3, CloudFront, Route 53, Lambda, API Gateway, DynamoDB)
+- **DevOps & CI/CD:** Git, GitHub Actions, AWS SAM
+- **Programming Languages:** Python, JavaScript, PHP, C
+- **Web Technologies:** HTML, CSS
+- **Databases:** MySQL, MSSQL
+- **Other:** Flutter, Arduino
+
+---
+
+## 🚀 Featured Projects
+
+- **AWS Cloud Resume Challenge** – Cloud-based personal resume project.
+- **Industrial Autonomous Vehicle Projects** – Embedded systems and autonomous vehicle development.
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud Infrastructure & AWS Architecture
+- DevOps Practices and CI/CD Automation
+- Infrastructure as Code (IaC)
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Demet Göktaş](https://linkedin.com/in/demet-goktaş)
+- **GitHub:** [@DmtGoktas](https://github.com/DmtGoktas)
+- **Portfolio:** [demetgoktas.me](https://demetgoktas.me)
